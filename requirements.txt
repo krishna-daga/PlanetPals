@@ -1,0 +1,6 @@
+openllm
+kivy
+transformers
+torch
+openai
+python-dotenv
