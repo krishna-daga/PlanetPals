@@ -1,0 +1,9 @@
+I am making a game, the concept is that the game generates a task (based on different categories) but the 
+tasks are arounf making the earth a better place, like picking up trash from local park, using bucket of water 
+to take bath instead of shower, putting out water for birds, but very simple doable tasks wchih motivates people 
+to be more sustainable, eco-friendly. I have an idea where the user can upload images of their task, get points, 
+I don't know what they can do with these points so help me with a free solution (i do not have funding as of now 
+so cannot give monetory rewards), have a community where people can share achievemnets , ideas, make friends, 
+people can also add friends and share their acjievemnmet of social media, I want to give badges for a threshold 
+of points reached. 
+Give me more ideas to make this app more fun and motivates people to participate on this task. Be creative
